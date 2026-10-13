@@ -1,0 +1,199 @@
+{
+  "student": {
+    "name": "Susovan Maity",
+    "roll": "CS25M258"
+  },
+  "city": "Nashik",
+  "year": 2020,
+  "boundary_source": "Nashik Municipal Corporation (ULB code 802776), Swachh Bharat Mission (Urban) ULB boundary layer, from the Indian urban-boundary release (india-geodata, release urban/boundaries, SBM_ULBs)",
+  "generated": "13 Oct 2026",
+  "area_km2": 267.25,
+  "total_pop": 1598886,
+  "exposed_pop": 876327,
+  "exposed_share_pct": 54.8,
+  "p25": 4.1,
+  "p50": 9.59,
+  "p75": 19.11,
+  "high_area_km2": 65.77,
+  "high_area_share_pct": 24.6,
+  "city_mean_rad": 12.37,
+  "city_max_rad": 53.3,
+  "popw_mean_rad": 20.16,
+  "n_viirs_pixels": 1440,
+  "vmax": 54.9,
+  "density_ratio_q4": 3.8,
+  "quartiles": [
+    {
+      "quartile": 1,
+      "label": "Q1 (darkest)",
+      "radiance_range": "< 4.10",
+      "population": 61643.4,
+      "area_km2": 66.31,
+      "pop_share_pct": 3.86,
+      "area_share_pct": 24.81,
+      "density_per_km2": 929.65
+    },
+    {
+      "quartile": 2,
+      "label": "Q2",
+      "radiance_range": "4.10\u20139.59",
+      "population": 180063.15,
+      "area_km2": 66.68,
+      "pop_share_pct": 11.26,
+      "area_share_pct": 24.95,
+      "density_per_km2": 2700.59
+    },
+    {
+      "quartile": 3,
+      "label": "Q3",
+      "radiance_range": "9.59\u201319.11",
+      "population": 480853.0,
+      "area_km2": 68.53,
+      "pop_share_pct": 30.07,
+      "area_share_pct": 25.64,
+      "density_per_km2": 7017.18
+    },
+    {
+      "quartile": 4,
+      "label": "Q4 (brightest)",
+      "radiance_range": "\u2265 19.11",
+      "population": 876326.62,
+      "area_km2": 65.77,
+      "pop_share_pct": 54.81,
+      "area_share_pct": 24.61,
+      "density_per_km2": 13323.11
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2020-01",
+      "month_name": "Jan",
+      "mean_rad": 13.61,
+      "p75_rad": 21.2,
+      "mean_cf": 18.54,
+      "nodata_pct": 0.0
+    },
+    {
+      "month": "2020-02",
+      "month_name": "Feb",
+      "mean_rad": 13.77,
+      "p75_rad": 21.09,
+      "mean_cf": 17.61,
+      "nodata_pct": 0.0
+    },
+    {
+      "month": "2020-03",
+      "month_name": "Mar",
+      "mean_rad": 13.03,
+      "p75_rad": 20.14,
+      "mean_cf": 17.18,
+      "nodata_pct": 0.0
+    },
+    {
+      "month": "2020-04",
+      "month_name": "Apr",
+      "mean_rad": 12.7,
+      "p75_rad": 19.63,
+      "mean_cf": 17.36,
+      "nodata_pct": 0.0
+    },
+    {
+      "month": "2020-05",
+      "month_name": "May",
+      "mean_rad": 12.73,
+      "p75_rad": 19.89,
+      "mean_cf": 12.78,
+      "nodata_pct": 0.0
+    },
+    {
+      "month": "2020-06",
+      "month_name": "Jun",
+      "mean_rad": 10.9,
+      "p75_rad": 16.17,
+      "mean_cf": 1.15,
+      "nodata_pct": 19.76
+    },
+    {
+      "month": "2020-07",
+      "month_name": "Jul",
+      "mean_rad": 9.34,
+      "p75_rad": 14.14,
+      "mean_cf": 2.05,
+      "nodata_pct": 0.32
+    },
+    {
+      "month": "2020-08",
+      "month_name": "Aug",
+      "mean_rad": 6.54,
+      "p75_rad": 9.13,
+      "mean_cf": 1.03,
+      "nodata_pct": 21.31
+    },
+    {
+      "month": "2020-09",
+      "month_name": "Sep",
+      "mean_rad": 10.46,
+      "p75_rad": 15.34,
+      "mean_cf": 0.17,
+      "nodata_pct": 82.93
+    },
+    {
+      "month": "2020-10",
+      "month_name": "Oct",
+      "mean_rad": 7.65,
+      "p75_rad": 11.14,
+      "mean_cf": 7.65,
+      "nodata_pct": 0.0
+    },
+    {
+      "month": "2020-11",
+      "month_name": "Nov",
+      "mean_rad": 12.85,
+      "p75_rad": 19.83,
+      "mean_cf": 14.89,
+      "nodata_pct": 0.0
+    },
+    {
+      "month": "2020-12",
+      "month_name": "Dec",
+      "mean_rad": 10.95,
+      "p75_rad": 16.35,
+      "mean_cf": 12.77,
+      "nodata_pct": 0.0
+    }
+  ],
+  "worst_month": {
+    "name": "Sep",
+    "nodata_pct": 82.9
+  },
+  "brightest_month": {
+    "name": "Feb",
+    "mean_rad": 13.77
+  },
+  "dimmest_month": {
+    "name": "Aug",
+    "mean_rad": 6.54
+  },
+  "bounds": {
+    "ntl": [
+      [
+        19.883333333333333,
+        73.66666666666667
+      ],
+      [
+        20.104166666666668,
+        73.92500000000001
+      ]
+    ],
+    "pop": [
+      [
+        19.885,
+        73.66666666666667
+      ],
+      [
+        20.103333333333335,
+        73.9225
+      ]
+    ]
+  }
+}

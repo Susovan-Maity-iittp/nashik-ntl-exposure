@@ -1,0 +1,20 @@
+,value
+city,Nashik
+year,2020
+boundary_source,"Nashik Municipal Corporation (ULB code 802776), Swachh Bharat Mission (Urban) ULB boundary layer, from the Indian urban-boundary release (india-geodata, release urban/boundaries, SBM_ULBs)"
+generated,13 Oct 2026
+area_km2,267.25
+total_pop,1598886
+exposed_pop,876327
+exposed_share_pct,54.8
+p25,4.1
+p50,9.59
+p75,19.11
+high_area_km2,65.77
+high_area_share_pct,24.6
+city_mean_rad,12.37
+city_max_rad,53.3
+popw_mean_rad,20.16
+n_viirs_pixels,1440
+vmax,54.9
+density_ratio_q4,3.8
